@@ -1,6 +1,6 @@
 #!/usr/bin/env python
 
-import time, sys, singal
+import time, sys, signal
 import RPi.GPIO as GPIO
 import datetime as dt
 
